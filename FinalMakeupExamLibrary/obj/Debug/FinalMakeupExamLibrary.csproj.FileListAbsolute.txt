@@ -1,0 +1,10 @@
+C:\Users\90534\Desktop\FinalMakeupExam\FinalMakeupExamLibrary\FinalMakeupExamLibrary\bin\Debug\FinalMakeupExamLibrary.dll
+C:\Users\90534\Desktop\FinalMakeupExam\FinalMakeupExamLibrary\FinalMakeupExamLibrary\bin\Debug\FinalMakeupExamLibrary.pdb
+C:\Users\90534\Desktop\FinalMakeupExam\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\FinalMakeupExam\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.dll
+C:\Users\90534\Desktop\FinalMakeupExam\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.pdb
+C:\Users\90534\Desktop\FinalMakeupExam - Kopya (4) - Kopya\FinalMakeupExamLibrary\FinalMakeupExamLibrary\bin\Debug\FinalMakeupExamLibrary.dll
+C:\Users\90534\Desktop\FinalMakeupExam - Kopya (4) - Kopya\FinalMakeupExamLibrary\FinalMakeupExamLibrary\bin\Debug\FinalMakeupExamLibrary.pdb
+C:\Users\90534\Desktop\FinalMakeupExam - Kopya (4) - Kopya\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\FinalMakeupExam - Kopya (4) - Kopya\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.dll
+C:\Users\90534\Desktop\FinalMakeupExam - Kopya (4) - Kopya\FinalMakeupExamLibrary\FinalMakeupExamLibrary\obj\Debug\FinalMakeupExamLibrary.pdb
